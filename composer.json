@@ -1,0 +1,15 @@
+{
+  "name": "user/phpmvcpattern",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "kazimurtuza",
+      "email": "kazimurtuza11@gmail.com"
+    }
+  ],
+  "require": {}
+}
